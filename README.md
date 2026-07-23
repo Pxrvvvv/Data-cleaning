@@ -1,4 +1,4 @@
-# Game Data Cleaning with Pandas
+# Game Data Cleaning with Pandas & Numpy
 
 ## Overview
 
@@ -17,9 +17,8 @@ This project demonstrates a complete data cleaning workflow using Python and Pan
 - Exported the cleaned dataset
 
 ## Technologies
-
-- Python
 - Pandas
+- Numpy
 
 ## Files
 
